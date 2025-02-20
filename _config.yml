@@ -1,0 +1,24 @@
+title: OnboardersCorp Wiki
+description: OnboardersCorp 팀 문서 사이트
+theme: just-the-docs
+
+# URL 설정
+baseurl: ""
+url: "https://onboarderscorp.github.io"
+
+# Just the Docs 설정
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links:
+  "OnboardersCorp GitHub":
+    - "https://github.com/OnboardersCorp"
