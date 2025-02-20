@@ -1,6 +1,6 @@
 title: OnboardersCorp Wiki
 description: OnboardersCorp 팀 문서 사이트
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # URL 설정
 baseurl: "/onboarders.github.io"  # repository name
