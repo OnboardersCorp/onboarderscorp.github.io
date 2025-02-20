@@ -3,7 +3,7 @@ description: OnboardersCorp 팀 문서 사이트
 remote_theme: just-the-docs/just-the-docs
 
 # URL 설정
-baseurl: "/onboarders.github.io"  # repository name
+baseurl: ""  # organization page는 비워둡니다
 url: "https://onboarderscorp.github.io"
 
 # Just the Docs 설정
