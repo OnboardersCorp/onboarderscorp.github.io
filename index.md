@@ -12,6 +12,7 @@ OnboardersCorp 팀의 공식 문서 저장소에 오신 것을 환영합니다.
 
 - [개발 가이드](./docs/development/index.md)
   - [Pull Request 가이드](./docs/development/pull-request-guide.md)
+  - [Cursor 활용 가이드라인 초안](./docs/development/cursor_ai_usage_guidelines.md)
 
 ## 🔗 Quick Links
 
