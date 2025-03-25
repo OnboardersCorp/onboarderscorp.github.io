@@ -1,3 +1,10 @@
+---
+layout: default
+title: 다중 에이전트 협업 모델 가이드
+parent: Development
+nav_exclude: true
+---
+
 # 다중 에이전트 협업 모델 고급 가이드
 
 이 문서는 복잡한 개발 프로젝트에서 역할별로 특화된 커서 AI 에이전트를 활용하는 협업 모델에 대한 세부 가이드라인을 제공합니다.
